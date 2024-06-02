@@ -1,7 +1,7 @@
 # Hola, mi nombre es Sebastián Pabón 👋
 ### Systems Engineer
 
-![https://github.com/JoanSPabon]
+https://github.com/JoanSPabon
 
 Soy ingeniero de software profesional desde 2025.
 
